@@ -1,2 +1,2 @@
 # CarlitelDesigns-iOS
-CarlitelDesigns-iOS es el repositorio oficial de nuestro equipo, centrado en el desarrollo de aplicaciones iOS con un enfoque en el diseño de interfaces de usuario atractivas y funcionales.
+Bienvenido a CarlitelDesigns-iOS, el repositorio oficial de nuestro equipo de desarrolladores enfocado en la creación de aplicaciones iOS con un enfoque especial en el diseño de interfaces de usuario. Aquí, encontrarás una colección de proyectos, recursos y ejemplos que demuestran nuestras mejores prácticas y metodologías para desarrollar aplicaciones intuitivas, atractivas y de alto rendimiento para dispositivos Apple
